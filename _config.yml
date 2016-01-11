@@ -1,28 +1,40 @@
-name: Alex Tatner
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.57487
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Alex Tatner
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#0c180f'
-    - '#31450c'
-    - '#853512'
-    - '#bc601b'
-    - '#67e955'
-  brandStrength: 0
-  lightness: 0.4375
-  saturation: 0.5
-  rhythmicContrast: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5
+  lightness: 0.4375
+  brandStrength: 0
+  brandColors:
+    - '#15200F'
+    - '#4B430C'
+    - '#A36404'
+    - '#4AA328'
+    - '#5A654B'
+  rhythmicContrast: 1
+typography_spectrum: 0.3702128
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
