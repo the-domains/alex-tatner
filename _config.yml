@@ -1,0 +1,28 @@
+name: Alex Tatner
+favicon: null
+layout_spectrum: 0.46548202680423856
+typography_spectrum: 0.7751263757236302
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8238406372256577
+  lightness: 0.1875
+  saturation: 0.5797268715687096
+  rhythmicContrast: 0.13010247563943267
+purpose: []
