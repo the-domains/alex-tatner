@@ -1,8 +1,7 @@
+name: Alex Tatner
+favicon: null
 layout_spectrum: 0.5787234
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.3702128
 collections:
   - index:
       path: /
@@ -15,26 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+title: Portfolio
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0
-  rhythmicContrast: 1
   brandColors:
     - '#15200F'
     - '#4B430C'
     - '#A36404'
     - '#4AA328'
     - '#5A654B'
+  brandStrength: 0
   lightness: 0.4375
-typography_spectrum: 0.3702128
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Alex Tatner
+  saturation: 0.5
+  rhythmicContrast: 1
+purpose: []
