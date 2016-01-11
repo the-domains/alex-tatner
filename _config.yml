@@ -1,7 +1,7 @@
 name: Alex Tatner
 favicon: null
-layout_spectrum: 0.5787234
-typography_spectrum: 0.3702128
+layout_spectrum: 0.22985
+typography_spectrum: 0.32274
 collections:
   - index:
       path: /
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#15200F'
-    - '#4B430C'
-    - '#A36404'
-    - '#4AA328'
-    - '#5A654B'
-  brandStrength: 0
-  lightness: 0.4375
-  saturation: 0.5
-  rhythmicContrast: 1
+    - '#191313'
+    - '#dde4ea'
+    - '#77420f'
+    - '#589697'
+    - '#fc4f55'
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
