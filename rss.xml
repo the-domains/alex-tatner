@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Alex Tatner]]></title>
         <description><![CDATA[Alex Tatner]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alex-tatner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 10:46:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 10:49:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alex-tatner/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da9eb4aa-651a-4e76-937d-df0a9b791ecc.jpg">]]></description>
-            <link>undefined0cac097b-6711-4730-bb8d-5e0edc28fa71/index.html</link>
+            <link>https://thegrid.ai/alex-tatner/0cac097b-6711-4730-bb8d-5e0edc28fa71/index.html</link>
             <guid isPermaLink="false">0cac097b-6711-4730-bb8d-5e0edc28fa71</guid>
-            <pubDate>Mon, 11 Jan 2016 10:46:11 GMT</pubDate>
+            <pubDate>Mon, 11 Jan 2016 10:48:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
