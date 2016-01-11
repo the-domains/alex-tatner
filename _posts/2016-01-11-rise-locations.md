@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T15:41:52.976Z'
-dateModified: '2016-01-11T15:41:33.492Z'
+datePublished: '2016-01-11T15:45:19.933Z'
+dateModified: '2016-01-11T15:43:26.873Z'
 title: Rise Locations
 author: []
+sourcePath: _posts/2016-01-11-rise-locations.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-rise-locations.md
-published: true
 url: rise-locations/index.html
 _type: Article
 
