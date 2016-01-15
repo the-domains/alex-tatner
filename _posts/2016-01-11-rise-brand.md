@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T17:10:42.253Z'
+datePublished: '2016-01-15T17:10:42.389Z'
 dateModified: '2016-01-15T17:09:32.418Z'
 title: Rise Brand
 author: []
