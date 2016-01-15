@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-15T17:08:44.975Z'
+datePublished: '2016-01-15T17:08:44.966Z'
 dateModified: '2016-01-15T17:08:38.299Z'
 title: Rise Locations
 author: []
