@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T17:10:42.376Z'
-dateModified: '2016-01-15T17:09:32.418Z'
+datePublished: '2016-01-15T17:10:43.129Z'
+dateModified: '2016-01-15T17:10:42.525Z'
 title: Rise Brand
 author: []
 sourcePath: _posts/2016-01-11-rise-brand.md
