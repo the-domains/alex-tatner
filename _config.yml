@@ -1,6 +1,6 @@
 name: Alex Tatner
 favicon: null
-layout_spectrum: 0.73261
+layout_spectrum: 0
 typography_spectrum: 0.33047
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#77420f'
     - '#589697'
     - '#fc4f55'
-  brandStrength: 0.5
-  lightness: 0.375
-  saturation: 0
-  rhythmicContrast: 0.5
+  brandStrength: 0
+  lightness: 0.125
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
